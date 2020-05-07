@@ -1,0 +1,197 @@
+.logo{
+	    width: 49%;
+    height: 74%
+
+}
+.center{
+	align-items: center;
+
+}
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid green;
+    margin: 1em 0; padding: 0; }
+.space_in_nav{
+
+       margin: 0px 8px 2px 2px;
+}
+.dropdown-item {
+    display: block;
+    width: 110%;
+    padding: 0.25rem 0.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+.nav1{
+	       
+       color:#333333;
+        font-size: 13px;
+    font-weight: bold;
+
+}
+.nav1:hover{
+	background-color: #316dc3;
+	border-radius: 30px;
+
+}
+.top-center{
+	text-align:center;
+	padding-left: 97px;
+    color: white;
+    font-weight: 200;
+}
+.upper-button{
+	font-size: 11px;
+    box-shadow: 12px 12px 11px #888888;
+    margin: 5px 9px 6px 2px;
+}
+.nav1:active{
+	background-color: #316dc3;
+	border-radius: 20px;
+
+}
+.top{
+	background-color: #316dc3;
+	padding: 8px 8px 4px 3px;
+}
+.smallimag{
+	      width: 18%;
+    /* padding: 99px 16px 24px 2px; */
+       margin: 24px 58px 16px 67px;
+}
+.test{
+	background-color: rgba(36, 79, 242, 0.8);
+	text-align: center;
+	    padding: 17px 77px 124px 72px;
+	
+}
+.fixter{
+	 
+	      margin: 40px -27px 20px 20px;
+}
+.card{
+	    box-shadow: 3px 6px 32px 1px grey;
+}
+.w-20 {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 20% !important;
+          flex: 0 0 20% !important;
+  max-width: 20%;
+}
+.inline{
+	    display: flex;
+    float: left;
+        margin: 20px 34px 18px 17px;
+}
+.mission{
+	background-color: #fff;
+	    margin: 71px 40px 60px 156px;
+}
+.ml{
+	    margin: 39px 37px 29px 31px;
+}
+.col-xs-2{
+    background:#00f;
+    color:#FFF;
+}
+.col-half-offset{
+    margin-left:4.166666667%
+}
+
+.event{
+	width: 356px;
+    height: 19em;
+}
+.headline{
+	background-color: #316dc3;
+}
+.card-body{
+	box-shadow: none;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.gradeint-color{
+	font-size: 72px;
+  background: linear-gradient(to left,pink,green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.card{
+	    box-shadow: 3px 6px 32px 1px grey;
+}
+
+.doing{
+ background-color: #f7f8fa;
+ 	text-align: center;
+	    padding: 17px 77px 124px 72px;
+
+}
+.mi{
+	background-image: url('3a.png');
+}
+.white{
+	color:white;
+
+}
+.testcolor{
+	color: #2dd052;
+}
+/** start*/
+
+
+div[class="social"]{
+	  font-size: 26px;
+
+
+}
+
+
+div[class="carousel-item"]{
+	width:100%;
+}
+
+
+
+
+
+.in{
+display: inline-block;
+}
+.w-25 {
+    width: 64%!important;
+}
+.footer{
+	background-color: #333333;
+	/*background-color: white;*/
+}
+.intro{
+	    padding: 45px 10px 10px 10px;
+	text-align: center;
+background-color:#f7f8fa;
+
+}
+
+.gallery{
+	padding: 10px 10px 10px 10px;
+		text-align: center;
+	background-color: #fff;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.para{
+text-align: justify;
+    margin: 12px 135px 10px 159px;
+    padding: 26px 30px 77px 30px;
+}
